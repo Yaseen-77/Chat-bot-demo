@@ -1,0 +1,450 @@
+[
+ {
+   "QUESTION": "1. Can a fraudster withdraw money from my Aadhaar linked bank account if he knows my Aadhaar number or has my Aadhaar card?",
+   "ANSWERS": "Just by knowing your Aadhaar number or Aadhaar linked bank account, no one can withdraw money from Aadhaar linked bank account.",
+   "CATEGORY": "Security",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": "17-Aug-2025"
+ },
+ {
+   "QUESTION": "2. Why shouldn't I put my Aadhaar number on social media?",
+   "ANSWERS": "Because it’s sensitive—UIDAI says you should avoid posting it publicly to keep your data secure.",
+   "CATEGORY": "Security",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": "17-Aug-2025"
+ },
+ {
+   "QUESTION": "How long does it take to get my Aadhaar letter after enrollment?",
+   "ANSWERS": "It can take up to 90 days, delivered by post.",
+   "CATEGORY": "Enrollment/Delivery",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "What if I don’t receive my Aadhaar letter?",
+   "ANSWERS": "You can check online or contact UIDAI with your Enrolment ID; you can also download e-Aadhaar.",
+   "CATEGORY": "Enrollment/Status",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "How do I retrieve my Aadhaar number if I’ve lost it?",
+   "ANSWERS": "Use “Retrieve Lost UID/EID” on UIDAI site or call 1947.",
+   "CATEGORY": "Retrieval",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "How do I lock or unlock my Aadhaar number?",
+   "ANSWERS": "You can lock/unlock via UIDAI website, mAadhaar app, or SMS to 1947 using VID.",
+   "CATEGORY": "Security",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Can I use Aadhaar freely for identity and transactions?",
+   "ANSWERS": "Yes, use it like any ID—just avoid sharing publicly.",
+   "CATEGORY": "Usage / Security",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "What is an Aadhaar PVC card? Is it same as paper letter?",
+   "ANSWERS": "Durable PVC version, equivalent to letter and easy to carry.",
+   "CATEGORY": "Document / Format",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "How to order Aadhaar PVC card?",
+   "ANSWERS": "Order online with Aadhaar/EID, pay ₹50, delivered by speed post.",
+   "CATEGORY": "Service / PVC Ordering",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "How long for PVC card delivery?",
+   "ANSWERS": "Handover to India Post in 5 days, then delivered via Speed Post.",
+   "CATEGORY": "Service / Timeline",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Can I update demo/biometric at any center?",
+   "ANSWERS": "Yes, any center across India, not just original one.",
+   "CATEGORY": "Update / Process",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Can foreign nationals update Aadhaar?",
+   "ANSWERS": "Yes—Resident Foreign Nationals can, with valid documents.",
+   "CATEGORY": "Eligibility / Update",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "How to update gender if previously updated once?",
+   "ANSWERS": "One free update; additional requires documents and exception via center.",
+   "CATEGORY": "Update / Gender",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Can I download e-Aadhaar after update?",
+   "ANSWERS": "Yes—you can download the updated Aadhaar as e-Aadhaar.",
+   "CATEGORY": "Update / Retrieval",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Update mobile number without old one?",
+   "ANSWERS": "Yes—any Aadhaar center; no documents or old number needed.",
+   "CATEGORY": "Update / Mobile",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "How long for update requests?",
+   "ANSWERS": "~90% processed within 30 days.",
+   "CATEGORY": "Update / Timeline",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "What types of passports are issued in India?",
+   "ANSWERS": "Ordinary (dark blue), Diplomatic (maroon), and Official (white) passports",
+   "CATEGORY": "Category",
+   "SOURCE": "Ministry of External Affairs FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "What is the validity of passports?",
+   "ANSWERS": "Adults get 10 years; minors get 5 years or until they turn 18; minors aged 15–18 may choose a full 10-year validity.",
+   "CATEGORY": "Validity",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Can I apply online for a passport?",
+   "ANSWERS": "Yes—fill the online form on Passport Seva portal, then visit PSK or POPSK for biometric submission",
+   "CATEGORY": "Application Process",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Do minors need a separate passport?",
+   "ANSWERS": "Yes—endorsement in a parent’s passport is not allowed. Every minor needs their own passport.",
+   "CATEGORY": "Minor",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Is consent required for a minor if a parent is abroad?",
+   "ANSWERS": "Yes—Annexure D must be signed by both parents (or Annexure C if consent cannot be obtained).",
+   "CATEGORY": "Minor",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Are there fee rebates?",
+   "ANSWERS": "Minors under 8 get a 10% rebate on fresh passport fees; senior citizens (60+) also get a 10% discount and expedited service.",
+   "CATEGORY": "Fees",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Can I apply at a Passport Seva Camp?",
+   "ANSWERS": "Yes, only for Fresh or Re-issue (normal)—not for Tatkaal or PCC. You must book an appointment and submit the form online first.",
+   "CATEGORY": "Camps",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Can I apply via a representative?",
+   "ANSWERS": "No—every applicant must be physically present at PSK/POPSK for biometric data submission.",
+   "CATEGORY": "Representation",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "What is an e-Passport?",
+   "ANSWERS": "It’s a passport with an embedded RFID chip containing your personal and biometric data, identifiable by a gold symbol on the cover",
+   "CATEGORY": "e-Passport",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Do I need to replace my valid passport with an e-Passport?",
+   "ANSWERS": "No—existing passports remain valid until expiry. You’ll receive an e-Passport only when your applying PSK supports it.",
+   "CATEGORY": "e-Passport",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "What are the benefits of e-Passports?",
+   "ANSWERS": "They offer enhanced data integrity, forgery protection, and secure global authentication.",
+   "CATEGORY": "e-Passport",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Where have e-Passports rolled out?",
+   "ANSWERS": "Initial rollout across 13 cities, including Nagpur, Goa, Delhi, and Hyderabad; Passport Seva 2.0 is expanding coverage further.",
+   "CATEGORY": "e-Passport Rollout",
+   "SOURCE": "News",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "How has police verification improved?",
+   "ANSWERS": "With Passport Seva 2.0 and mPassport Police App, police verification now takes about 5–7 days in many areas.",
+   "CATEGORY": "Police Verification",
+   "SOURCE": "News",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "What should I do if I lose my passport?",
+   "ANSWERS": "Report immediately to the local police and Passport Office or Indian mission (if abroad), then apply for re-issue.",
+   "CATEGORY": "Lost Passport",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Can I change a normal application to Tatkaal later?",
+   "ANSWERS": "Generally not—but you may visit the Passport Office with proof of urgency to request a switch.",
+   "CATEGORY": "Tatkaal Conversion",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "When is police verification done under Tatkaal?",
+   "ANSWERS": "It’s done after passport issuance under the Tatkaal scheme.",
+   "CATEGORY": "Police Verification",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Agar kisi fraudster ke paas mera Aadhaar number ya Aadhaar card ho, toh kya woh mere Aadhaar linked bank account se paise nikal sakta hai?",
+   "ANSWERS": "Sirf Aadhaar number ya Aadhaar linked bank account details jaane se koi paise withdraw nahi kar sakta.",
+   "CATEGORY": "Security",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Aadhaar number social media par share kyu nahi karna chahiye?",
+   "ANSWERS": "Kyuki yeh sensitive hai—UIDAI kehta hai ki data secure rakhne ke liye Aadhaar number public post karna avoid karo.",
+   "CATEGORY": "Security",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Enrollment ke baad Aadhaar letter aane mein kitna time lagta hai?",
+   "ANSWERS": "Post ke through aane me 90 din tak lag sakte hain.",
+   "CATEGORY": "Enrollment/Delivery",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Agar Aadhaar letter receive na ho toh kya karna chahiye?",
+   "ANSWERS": "Aap online check kar sakte ho ya Enrolment ID ke saath UIDAI se contact kar sakte ho; e-Aadhaar bhi download kar sakte ho.",
+   "CATEGORY": "Enrollment/Status",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Agar mera Aadhaar letter kho jaye toh usse wapas kaise nikalu?",
+   "ANSWERS": "UIDAI site par “Retrieve Lost UID/EID” option use karo ya 1947 par call karo.",
+   "CATEGORY": "Retrieval",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Aadhaar number ko lock ya unlock kaise karein?",
+   "ANSWERS": "UIDAI website, mAadhaar app, ya SMS (1947 using VID) se lock/unlock kar sakte ho.",
+   "CATEGORY": "Security",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Kya Aadhaar ko identity aur transactions ke liye use kar sakte hain?",
+   "ANSWERS": "Haan, kisi bhi ID ki tarah use kar sakte ho—bas publicly share karne se bacho.",
+   "CATEGORY": "Usage / Security",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": " Aadhaar PVC card kya hota hai? Kya yeh paper letter jaisa hi hai?",
+   "ANSWERS": "PVC card ek durable version hai, paper letter jaisa hi hai aur carry karne me easy hai.",
+   "CATEGORY": "Document / Format",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Aadhaar PVC card order kaise karein?",
+   "ANSWERS": "Online order karo Aadhaar/EID se, ₹50 pay karo, aur Speed Post se deliver hoga.",
+   "CATEGORY": "Service / PVC Ordering",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "PVC card delivery mein kitna time lagta hai?",
+   "ANSWERS": "5 din me India Post ko handover hota hai, phir Speed Post se deliver ho jata hai.",
+   "CATEGORY": "Service / Timeline",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Kya demo/biometric update kisi bhi center par ho sakta hai?",
+   "ANSWERS": "Haan, India ke kisi bhi center par update kar sakte ho, sirf original wale par hi nahi.",
+   "CATEGORY": "Update / Process",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": " Kya foreign nationals bhi Aadhaar update kar sakte hain?",
+   "ANSWERS": "Haan—Resident Foreign Nationals valid documents ke saath update kar sakte hain.",
+   "CATEGORY": "Eligibility / Update",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Agar gender pehle update ho gaya ho toh dobara kaise update karein?",
+   "ANSWERS": "Ek free update milta hai; extra update ke liye documents aur center approval chahiye.",
+   "CATEGORY": "Update / Gender",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Update ke baad e-Aadhaar download kar sakte hain kya?",
+   "ANSWERS": "Haan—update ke baad aap e-Aadhaar download kar sakte ho.",
+   "CATEGORY": "Update / Retrieval",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Kya mobile number purana number ke bina bhi update ho sakta hai?",
+   "ANSWERS": "Haan—kisi bhi Aadhaar center par; documents ya purana number ki zarurat nahi hoti.",
+   "CATEGORY": "Update / Mobile",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Update request process hone mein kitna time lagta hai?",
+   "ANSWERS": "Lagbhag 90% requests 30 din ke andar process ho jaati hain.",
+   "CATEGORY": "Update / Timeline",
+   "SOURCE": "UIDAI FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "India mein kaun-kaunse type ke passports milte hain?",
+   "ANSWERS": "Ordinary (dark blue), Diplomatic (maroon), aur Official (white) passports hote hain.",
+   "CATEGORY": "Category",
+   "SOURCE": "Ministry of External Affairs FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Passport ki validity kitni hoti hai?",
+   "ANSWERS": "Adults ke liye 10 years; minors ke liye 5 years ya jab tak 18 saal ke na ho; 15–18 ke minors 10-year validity choose kar sakte hain.",
+   "CATEGORY": "Validity",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Passport ke liye online apply kar sakte hain kya?",
+   "ANSWERS": "Haan—online form Passport Seva portal par fill karo, phir PSK/POPSK visit karke biometric submit karo.",
+   "CATEGORY": "Application Process",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Kya minors (bachche) ko alag passport lena padta hai?",
+   "ANSWERS": "Haan—parent ke passport me endorsement allow nahi hai. Har minor ko apna passport lena padta hai.",
+   "CATEGORY": "Minor",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Agar parent abroad hai toh minor ke liye consent zaruri hai kya?",
+   "ANSWERS": "Haan—Annexure D dono parents ko sign karna hota hai (agar consent na ho toh Annexure C).",
+   "CATEGORY": "Minor",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Kya passport ke liye fee rebates available hain?",
+   "ANSWERS": "8 saal se chhote minors ko fresh passport fees me 10% rebate milta hai; senior citizens (60+) ko bhi 10% discount aur fast service milti hai.",
+   "CATEGORY": "Fees",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Kya Passport Seva Camp mein apply kar sakte hain?",
+   "ANSWERS": "Haan, lekin sirf Fresh ya Re-issue (normal) ke liye—not for Tatkaal ya PCC. Appointment book karke form online submit karna padta hai.",
+   "CATEGORY": "Camps",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Kya main representative ke through apply kar sakta hoon?",
+   "ANSWERS": "Nahi—har applicant ko PSK/POPSK me physical present hona padta hai biometric ke liye.",
+   "CATEGORY": "Representation",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "e-Passport kya hota hai?",
+   "ANSWERS": "Yeh ek passport hai jisme RFID chip hoti hai, jo personal aur biometric data store karti hai; cover par gold symbol hota hai.",
+   "CATEGORY": "e-Passport",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Kya mujhe apna valid passport e-Passport se replace karna zaruri hai?",
+   "ANSWERS": "Nahi—jo purane passports hain wo expiry tak valid rahenge. e-Passport tab milega jab aap jis PSK me apply kar rahe ho wo support karega.",
+   "CATEGORY": "e-Passport",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "e-Passports ke kya benefits hain?",
+   "ANSWERS": "e-Passports data integrity, forgery protection aur secure global authentication dete hain.",
+   "CATEGORY": "e-Passport",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "e-Passports kaha par rollout huye hain?",
+   "ANSWERS": "Pehle 13 cities me rollout hua tha (Nagpur, Goa, Delhi, Hyderabad, etc.); Passport Seva 2.0 ke saath aur jagah expand ho raha hai.",
+   "CATEGORY": "e-Passport Rollout",
+   "SOURCE": "News",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Police verification kaise improve hua hai?",
+   "ANSWERS": "Passport Seva 2.0 aur mPassport Police App ke saath ab police verification 5–7 din me ho jata hai kai jagahon par.",
+   "CATEGORY": "Police Verification",
+   "SOURCE": "News",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Agar mera passport kho jaye toh mujhe kya karna chahiye?",
+   "ANSWERS": "Agar passport kho jaye toh turant local police aur Passport Office (ya abroad ho toh Indian mission) ko report karo, fir re-issue ke liye apply karo.",
+   "CATEGORY": "Lost Passport",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Kya main normal application ko baad me Tatkaal me change kar sakta hoon?",
+   "ANSWERS": "Generally nahi—but aap Passport Office me urgency proof ke saath jaake request kar sakte ho.",
+   "CATEGORY": "Tatkaal Conversion",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ },
+ {
+   "QUESTION": "Tatkaal ke under police verification kab hota hai?",
+   "ANSWERS": "Tatkaal scheme me passport issue hone ke baad police verification hota hai.",
+   "CATEGORY": "Police Verification",
+   "SOURCE": "Passport Seva FAQs",
+   "LAST UPDATED": ""
+ }
+]
